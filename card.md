@@ -1,6 +1,6 @@
 - 开源发卡系统
 
-1. 异次元店铺系统    https://faka.wiki/    https://github.com/lizhipay/acg-faka
+1. **异次元店铺系统**    https://faka.wiki/    https://github.com/lizhipay/acg-faka
 
 2. 独角数卡          https://github.com/assimon/dujiaoka
 
